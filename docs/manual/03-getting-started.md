@@ -51,7 +51,7 @@ there are a couple ways you can try it.
   :::
 
 The default port for the web interface is `4440`. If you
-installed Rundeck on your local machine, go to this URL: `http://locahost:4440`
+installed Rundeck on your local machine, go to this URL: `http://localhost:4440`
 
 ## Login
 
